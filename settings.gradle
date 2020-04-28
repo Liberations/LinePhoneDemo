@@ -1,0 +1,2 @@
+rootProject.name='SipCallTest'
+include ':app'
